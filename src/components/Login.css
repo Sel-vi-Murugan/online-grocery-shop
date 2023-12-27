@@ -1,0 +1,83 @@
+
+body{
+    background-image:url("C:\reactProjects\project\src\components\board.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.container{
+    width:30%;
+    padding:2rem 1rem;
+    margin:5px auto;
+    background-color:rgba(255, 255, 255, 0.725);
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 5px 10px 25px black;
+    margin-top: 8rem;
+    margin-left: 150px;
+
+}
+
+h2{
+    font-size: 2rem;
+    color:rgb(16, 154, 234);
+    margin-bottom: 1.2rem;
+}
+form input{
+    width: 82%;
+    outline: none;
+    border:10px 35px #fff;
+    padding:12px 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background:#f5eded;
+}
+button{
+    font-size: 1rem;
+    margin-top: 1.8rem;
+    padding:10px 0;
+    border-radius: 20px;
+    outline:none;
+    border: none;
+    width:90%;
+    background-color: rgb(16, 161, 234);
+    cursor:pointer;
+}
+button:focus{
+    border:2px solid rgb(31, 110, 237);
+}
+button:hover{
+    background: rgb(81, 191, 243);
+
+}
+input:focus{
+    border:1px solid rgb(16, 234, 27);
+}
+input:focus{
+    border:1px solid rgb(16, 161, 234);
+}
+.terms{
+    margin-top: 0.2rem;
+}
+.terms input{
+    height:1rem;
+    width:1rem;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.terms label{
+    font-size: 0.7rem;
+
+}
+.terms a{
+    color:rgb(0, 0, 255);
+    text-decoration: underline;
+}
+.member{
+    font-size: 1rem;
+    margin-top: 1.4rem;
+}
+.member a{
+    color:rgb(0, 0, 255);
+    text-decoration: underline;
+}

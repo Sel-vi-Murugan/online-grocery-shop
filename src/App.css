@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "PT Sans", sans-serif;
+}
+
+
+.Home{
+  background-color: #fff;
+}
+.FruitVeg {
+  background-color: #fff;
+}
+
+.Grains {
+  background-color: #fff;
+}
+
+.Diary {
+  background-color: #fff;
+}
+
+.Products {
+  background-color: #fff;
+}
+
